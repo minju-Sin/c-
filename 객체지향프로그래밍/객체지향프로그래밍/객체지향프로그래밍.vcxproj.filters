@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1장 기초사항">
+      <UniqueIdentifier>{24af31e7-b7a7-4124-9a22-1a2147a770a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2장 제어문과 함수">
+      <UniqueIdentifier>{a03ca982-2115-480b-99a4-fb9a5c5c637d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3장 배열과 포인터">
+      <UniqueIdentifier>{1174cfc3-ce17-4f8f-8629-916b1909160b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4장 객체지향 소개">
+      <UniqueIdentifier>{c3cfc07a-cb40-40bb-94a6-bdd9ec774541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5장 클래스">
+      <UniqueIdentifier>{1f5b870b-da2e-4b58-bbd5-1494add8c26d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6장 생성자와 소멸자">
+      <UniqueIdentifier>{1694e3b6-a8b6-4660-99a3-21c8f57e49eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\7장 클래스의 활용">
+      <UniqueIdentifier>{8c8c70d0-c12f-4655-b6dd-a8a8e4c85aa7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\6장 생성자와 소멸자\헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\중간시험">
+      <UniqueIdentifier>{2b040833-6b38-4311-9a43-b3fd4778cb40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\중간시험\예상문제">
+      <UniqueIdentifier>{3b0e4578-38fc-4d17-bbaa-a6e2a25ea664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\8장 상속">
+      <UniqueIdentifier>{93b32992-0653-4c54-bccf-3f9528159312}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\9장 다형성">
+      <UniqueIdentifier>{981d0f96-73d7-420e-8e0d-bbbc67331422}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\10장 프렌드함수">
+      <UniqueIdentifier>{178f03fb-2aaa-445b-8964-0ca7fdd4a348}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12장 템플릿">
+      <UniqueIdentifier>{217d6fe1-65e0-4a78-8168-d1121662ad41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\1장 기초사항\[LAB]온도.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1장 기초사항\연습문제-1번.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1장 기초사항\연습문제-2번.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1장 기초사항\연습문제-3번.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1장 기초사항\연습문제-4번.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1장 기초사항\연습문제-5번.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\1장 기초사항\연습문제-6번.cpp">
+      <Filter>소스 파일\1장 기초사항</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\[LAB]-1번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-1번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-2번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-3번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-4번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-5번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-6번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-7번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-8번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-9번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-10번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-11번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\2장 제어문과 함수\연습문제-12번.cpp">
+      <Filter>소스 파일\2장 제어문과 함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\1번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\2번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\3번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-1번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-2번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-3번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-4번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-5번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-6번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-7번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-9번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-10번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-11번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-12번.cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3장 배열과 포인터\연습문제-13번(모름).cpp">
+      <Filter>소스 파일\3장 배열과 포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-6번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-7번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-8번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-9번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-10번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-11번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-12번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\4장 객제지향 소개\연습문제-13번.cpp">
+      <Filter>소스 파일\4장 객체지향 소개</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\5장 클래스\연습문제-1번.cpp">
+      <Filter>소스 파일\5장 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\5장 클래스\연습문제-2번.cpp">
+      <Filter>소스 파일\5장 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\5장 클래스\연습문제-3번.cpp">
+      <Filter>소스 파일\5장 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\5장 클래스\연습문제-4번.cpp">
+      <Filter>소스 파일\5장 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\5장 클래스\연습문제-5번.cpp">
+      <Filter>소스 파일\5장 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\5장 클래스\연습문제-6번.cpp">
+      <Filter>소스 파일\5장 클래스</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\연습문제-2번.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\연습문제-3번.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\예제-1번.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\예제-2번.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\연습문제-3번%28교재%29.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\연습문제-4번.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\6장 생성자와 소멸자\연습문제-5번.cpp">
+      <Filter>소스 파일\6장 생성자와 소멸자</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\7장 클래스의 활용\연습문제-1번%28미완%29.cpp">
+      <Filter>소스 파일\7장 클래스의 활용</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\7장 클래스의 활용\예제-1번.cpp">
+      <Filter>소스 파일\7장 클래스의 활용</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\7장 클래스의 활용\예제-2번.cpp">
+      <Filter>소스 파일\7장 클래스의 활용</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\7장 클래스의 활용\연습문제-6번.cpp">
+      <Filter>소스 파일\7장 클래스의 활용</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출1.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출2.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출3.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출4.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출5.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출6.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\호출7.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\문제1.cpp">
+      <Filter>소스 파일\중간시험\예상문제</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\8장 상속\연습문제-1번.cpp">
+      <Filter>소스 파일\8장 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\8장 상속\연습문제-2번.cpp">
+      <Filter>소스 파일\8장 상속</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\9장 다형성\연습문제-3번.cpp">
+      <Filter>소스 파일\9장 다형성</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\10장 프렌드함수\연습문제.cpp">
+      <Filter>소스 파일\10장 프렌드함수</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\12장 템플릿\링크드리스트.cpp">
+      <Filter>소스 파일\12장 템플릿</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\12장 템플릿\스택.cpp">
+      <Filter>소스 파일\12장 템플릿</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\중간시험\소스.cpp">
+      <Filter>소스 파일\중간시험</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
